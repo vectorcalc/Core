@@ -1,4 +1,4 @@
-# iConomy 
+# iConomy Eric's Version
     -- Economy based core plugin for bukkit
     
 # Core
